@@ -1,1 +1,1 @@
-# singlebucks.github.io
+# https://www.singlebucks.live
