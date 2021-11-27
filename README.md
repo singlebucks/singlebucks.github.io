@@ -4,4 +4,15 @@
 
 ## About us
 
-[https://www.singlebucks.live/about.html](https://www.singlebucks.live/about.html)
+[https://www.singlebucks.live/about](https://www.singlebucks.live/about)
+
+## music player
+
+[https://www.singlebucks.live/music](https://www.singlebucks.live/music)
+
+
+
+
+
+
+
