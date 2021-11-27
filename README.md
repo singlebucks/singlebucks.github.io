@@ -1,5 +1,6 @@
+# Main website 
 
-# [https://www.singlebucks.live](https://www.singlebucks.live)
+[https://www.singlebucks.live](https://www.singlebucks.live)
 
 
 ## About us
